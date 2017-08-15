@@ -42,10 +42,27 @@ SELECT name FROM marvel
 WHERE name = 'Kyle Miller';
 
 5. The cinema is showing 'Batman Begins', but Batman is DC, not Marvel! Delete the entry from the 'movies' table.
+
+
+
 6. Create a new entry in the 'people' table with the name of one of the instructors.
+
+
+
 7. Craig Morton has decided to hijack our movie evening, Remove him from the table of people.
+
+
+
 8. Somehow the list of people includes someone just named 'David'. Change our mystery guest's name to 'David 5'
+
+
+
+
 9. The cinema has just heard that they will be holding an exclusive midnight showing of 'Spiderman Homecoming'!! Create a new entry in the 'movies' table to reflect this.
+
+
+
+
 10. The cinema would also like to make the Guardian's of the Galaxy movies a back to back feature. Update the 'Guardians of the Galaxy' show time from 16:15 to 18:30
 
 ## Extension
